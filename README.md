@@ -1,2 +1,2 @@
 ##
-url:'https://akshurai2004.github.io/akanksh_protfolio/'
+url:'(https://akshurai2004.github.io/)'
